@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Desktop.task.iml" filepath="$PROJECT_DIR$/.idea/modules/Desktop.task.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/clients/clients.iml" filepath="$PROJECT_DIR$/.idea/modules/clients/clients.iml" group="task/clients" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/clients/clients_main.iml" filepath="$PROJECT_DIR$/.idea/modules/clients/clients_main.iml" group="task/clients" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/clients/clients_test.iml" filepath="$PROJECT_DIR$/.idea/modules/clients/clients_test.iml" group="task/clients" />
@@ -9,6 +10,18 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/contracts/contracts_main.iml" filepath="$PROJECT_DIR$/.idea/modules/contracts/contracts_main.iml" group="task/contracts" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/contracts/contracts_test.iml" filepath="$PROJECT_DIR$/.idea/modules/contracts/contracts_test.iml" group="task/contracts" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/task.iml" filepath="$PROJECT_DIR$/.idea/modules/task.iml" group="task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/clients/task.clients.iml" filepath="$PROJECT_DIR$/.idea/modules/clients/task.clients.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/clients/task.clients.main.iml" filepath="$PROJECT_DIR$/.idea/modules/clients/task.clients.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/clients/task.clients.test.iml" filepath="$PROJECT_DIR$/.idea/modules/clients/task.clients.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/contracts/task.contracts.iml" filepath="$PROJECT_DIR$/.idea/modules/contracts/task.contracts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/contracts/task.contracts.main.iml" filepath="$PROJECT_DIR$/.idea/modules/contracts/task.contracts.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/contracts/task.contracts.test.iml" filepath="$PROJECT_DIR$/.idea/modules/contracts/task.contracts.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/workflows/task.workflows.iml" filepath="$PROJECT_DIR$/.idea/modules/workflows/task.workflows.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/workflows/task.workflows.integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/workflows/task.workflows.integrationTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/workflows/task.workflows.main.iml" filepath="$PROJECT_DIR$/.idea/modules/workflows/task.workflows.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/workflows/task.workflows.test.iml" filepath="$PROJECT_DIR$/.idea/modules/workflows/task.workflows.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/task_main.iml" group="task" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/task_test.iml" group="task" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/workflows/workflows.iml" filepath="$PROJECT_DIR$/.idea/modules/workflows/workflows.iml" group="task/workflows" />

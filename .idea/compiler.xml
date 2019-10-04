@@ -6,6 +6,15 @@
       <module name="clients_test" target="1.8" />
       <module name="contracts_main" target="1.8" />
       <module name="contracts_test" target="1.8" />
+      <module name="task.clients.main" target="1.8" />
+      <module name="task.clients.test" target="1.8" />
+      <module name="task.contracts.main" target="1.8" />
+      <module name="task.contracts.test" target="1.8" />
+      <module name="task.main" target="1.8" />
+      <module name="task.test" target="1.8" />
+      <module name="task.workflows.integrationTest" target="1.8" />
+      <module name="task.workflows.main" target="1.8" />
+      <module name="task.workflows.test" target="1.8" />
       <module name="task_main" target="1.8" />
       <module name="task_test" target="1.8" />
       <module name="workflows_integrationTest" target="1.8" />
